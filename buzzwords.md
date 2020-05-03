@@ -43,6 +43,7 @@ Data engineers build the platforms, tools, and logic that enable data scientists
 --------------
 ## Data Science
 - Bayesian
+- prior 
 - neural networks
 - deep learning
--
+- hypothesis testing
